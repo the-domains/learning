@@ -1,4 +1,19 @@
-analytics: {}
+name: learning
+favicon: null
+layout_spectrum: 0.011261
+typography_spectrum: 0.477477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#E8E8F0'
@@ -6,13 +21,8 @@ color:
     - '#000000'
     - '#F8C860'
     - '#F8C868'
-  brandStrength: 0.693783
+  brandStrength: 0
   lightness: 0.428091
-  rhythmicContrast: 0.131991
   saturation: 0.596631
-cta: {}
-layout_spectrum: 0.011261
-name: learning
-opengraph: {}
+  rhythmicContrast: 0.131991
 purpose: []
-typography_spectrum: 0.477477
