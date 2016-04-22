@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[learning]]></title>
         <description><![CDATA[learning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/learning/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:51:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Apr 2016 01:25:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/learning/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Podcast - The Tim Ferriss Show]]></title>
+            <description><![CDATA[<article><h1>Podcast - The Tim Ferriss Show</h1><p>The Tim Ferriss Show is generally the #1 business podcast on all of iTunes, and it's been ranked #1 (of all podcasts) on many occasions. It was also selected as iTunes' "Best of 2014" and "Best of 2015." In recent months, downloads have shot past 60,000,000 downloads.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dc652a08e9b7ef6c3c3dfdc020f31ea3e427ad48.jpg"></article>]]></description>
+            <link>https://source.unsplash.com/random</link>
+            <guid isPermaLink="false">21e10bf5-b9be-4b64-9305-46bae3840b53</guid>
+            <pubDate>Fri, 22 Apr 2016 01:25:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://thegrid.ai/learning/</p>]]></description>
-            <link>undefined8295c868-a0c8-41a4-8aac-4f8773e1b788/index.html</link>
+            <link>https://thegrid.ai/learning/8295c868-a0c8-41a4-8aac-4f8773e1b788/index.html</link>
             <guid isPermaLink="false">8295c868-a0c8-41a4-8aac-4f8773e1b788</guid>
             <pubDate>Wed, 17 Feb 2016 16:51:03 GMT</pubDate>
         </item>
